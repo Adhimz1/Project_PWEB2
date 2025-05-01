@@ -14,7 +14,7 @@
                 <div class="footer-info">
                     <p class="mb-1"><i class="fas fa-clock me-2"></i> <strong>Buka Setiap Hari</strong> 08.00 - 22.00 WIB</p>
                     <p class="mb-1"><i class="fas fa-map-marker-alt me-2"></i> Jl. Otista No.55, Kuningan, Jawa Barat</p>
-                    <p><i class="fas fa-phone-alt me-2"></i> <a href="tel:+6289630152631" class="text-white">0896-3015-2631</a></p>
+                    <p><i class="fas fa-phone-alt me-2"></i> <a href="tel:+6289630152631" class="text-white">0855-8586-534</a></p>
                 </div>
             </div>
             <!-- Sosial Media -->
@@ -26,7 +26,7 @@
                     <a href="https://instagram.com" target="_blank" class="social-icon mx-2">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a href="https://wa.me/6289630152631" target="_blank" class="social-icon mx-2 whatsapp-icon">
+                    <a href="https://wa.me/+628558586534" target="_blank" class="social-icon mx-2 whatsapp-icon">
                         <i class="fab fa-whatsapp"></i>
                     </a>
                     <a href="https://youtube.com" target="_blank" class="social-icon mx-2">
@@ -36,7 +36,6 @@
                 <div class="footer-links">
                     <a href="about.php" class="text-white mx-2">Tentang Kami</a>
                     <a href="Menu.php" class="text-white mx-2">Menu</a>
-                    <a href="Lokasi.php" class="text-white mx-2">Lokasi</a>
                     <a href="kontak.php" class="text-white mx-2">Kontak</a>
                 </div>
             </div>
@@ -51,7 +50,7 @@
 </div>
 
 <!-- Floating WhatsApp Button -->
-<a href="https://wa.me/6289630152631" class="whatsapp-float" target="_blank">
+<a href="https://wa.me/+628558586534" class="whatsapp-float" target="_blank">
     <i class="fab fa-whatsapp"></i>
 </a>
 
